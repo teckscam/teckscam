@@ -4,10 +4,11 @@
 
 
 ### About me
-I'm a CNC machine and Robotics developer solutions for molds to plastic industry.
+I'm a systems developer for CNC machine and Robotics for molds plastic industry.
 
 - General interest in technology, science and programming
 - My base tools are c/c++ and python
+- CNC controlers are Fanuc, Fagor and Heidenhain.
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
