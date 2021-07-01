@@ -4,7 +4,7 @@
 
 
 ### About me
-I'm a systems developer for CNC machine and Robotics for steel industry ! 🦖 :bug:
+I'm a systems developer for CNC machine and Robotics for steel industry !
 
 - General interest in technology, science and programming
 - My base tools are c/c++ and python
