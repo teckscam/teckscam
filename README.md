@@ -8,7 +8,7 @@ I'm a systems developer for CNC machine and Robotics !
 
 - General interest in technology, science and programming
 - My base tools are c/c++ and python
-- CNC controlers are;
+- CNC controlers are
                       [FAGOR AUTOMATION](https://www.fagorautomation.com/en/),
                       [FANUC](https://www.fanuc.eu/uk/en?srb=1),
                       [HEIDENHAIN](https://www.heidenhain.com/)
