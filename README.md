@@ -2,7 +2,7 @@
 I'm a systems developer for CNC machine and Robotics !
 
 - General interest in technology, science and programming
-- My base tools are c/c++ and python
+- My base tools are c/c++, .NET and python
 - CNC controlers are
 
   #### [FAGOR AUTOMATION](https://www.fagorautomation.com/en/)
