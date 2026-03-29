@@ -10,14 +10,3 @@ I'm a systems developer applications to integrate with CNC machines.
   #### [FANUC](https://www.fanuc.eu/uk/en?srb=1)
   #### [HEIDENHAIN](https://www.heidenhain.com/)
   #### [SIEMENS](https://www.siemens.com/en-us/products/sinumerik/)
-  
-  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teckscam&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
-    />
-  </a>
-</p>
