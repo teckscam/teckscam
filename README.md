@@ -1,5 +1,5 @@
 ### About me
-I'm a systems developer for CNC machine and Robotics !
+I'm a systems developer applications to integrate and or for CNC machines.
 
 - General interest in technology, science and programming
 - My base tools are c/c++, .NET and python
