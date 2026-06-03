@@ -1,9 +1,8 @@
 ### About me
 I'm a systems developer applications to integrate with CNC machines.
 
-- General interest in technology and science.
 - Entusiast to low level programming.
-- My base tools are c/c++, rust, python, and dotnet tools
+- My base tools are c/c++,C#, rust, python, and dotnet tools
 - CNC controlers are
 
   #### [FAGOR AUTOMATION](https://www.fagorautomation.com/en/)
